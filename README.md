@@ -14,7 +14,7 @@ It finds all the javascript files and links(hrefs) from HTML and analysis them a
 - click on Load unpacked extension and select BestRecon folder
 
 # Todos
-Find API endpoints,
-Instead of consoling them show them in UI,
-Find API_KEYS and check if they are valid
+- Find API endpoints
+- Instead of consoling them show them in UI
+- Find API_KEYS and check if they are valid
 
