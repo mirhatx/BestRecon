@@ -5,6 +5,10 @@ BestRecon is a browser-based recon tool to gather information about your target 
 
 It finds all the scripts and links(hrefs) from html and anaylsis them and make a request to JavaScript files and search sensitive information inside of the JavaScript files it will soon find all the API endpoints from the JavaScript files.
 
+# Manual Install
+
+- ![chrome](https://ibb.co/FHq3sGs)
+
 # Known issues
 Sometimes It may cause optimization issues.
 
