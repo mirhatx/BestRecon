@@ -7,10 +7,9 @@ It finds all the scripts and links(hrefs) from html and anaylsis them and make a
 
 # Manual Install
 
-- ![chrome](https://ibb.co/FHq3sGs)
-
-# Known issues
-Sometimes It may cause optimization issues.
+- git clone https://github.com/Mirhatyasar/BestRecon.git
+- go to chrome://extensions
+- click on Load unpacked extension and select BestRecon folder
 
 # Todos
 Find API endpoints,
